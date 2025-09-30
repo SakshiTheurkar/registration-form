@@ -22,4 +22,7 @@ courses:string[]=[
 'Artifical intelligence'
 ]
 
+ngOnInit(){
+  console.log("Inside Form Component");
+}
 }
